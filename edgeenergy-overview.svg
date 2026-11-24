@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 208" width="800" height="208" role="img" aria-labelledby="heading detail">
+  <title id="heading">EdgeEnergy: energy and information in wireless sensor networks</title>
+  <desc id="detail">An editorial illustration: an unbroken band for energy and a dotted band for information overlap at a single decision. The geometry is symbolic.</desc>
+  <defs><clipPath id="frame"><rect x="1" y="1" width="798" height="206" rx="14"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="800" height="208" fill="#102e31"/>
+    <path d="M0 176H800" stroke="#40605c"/>
+    <path d="M28 32H52" fill="none" stroke="#f4c589" stroke-width="3"/>
+    <text x="65" y="38" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2.5" font-weight="bold" fill="#d4e7de">DOCTORAL RESEARCH</text>
+    <text x="26" y="123" font-family="Georgia,'Times New Roman',serif" font-size="76" letter-spacing="-2" fill="#fff8e6">EdgeEnergy</text>
+    <text x="32" y="159" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#d4e7de">Wireless sensor networks</text>
+    <g fill="none" stroke-linecap="round">
+      <path d="M476 100C514 100 518 58 568 58C633 58 650 136 710 136C741 136 757 121 772 104" stroke="#a4ded1" stroke-width="3"/>
+      <path d="M476 109C519 109 527 68 568 68C622 68 644 146 710 146C744 146 761 132 778 113" stroke="#65b7aa" stroke-width="2"/>
+      <path d="M476 118C525 118 536 78 568 78C613 78 637 156 710 156C751 156 766 143 782 125" stroke="#478a80" stroke-width="2"/>
+      <path d="M476 143C533 143 545 140 575 121C606 102 633 80 668 65C702 50 732 47 776 47" stroke="#f4c589" stroke-width="4" stroke-dasharray="1 10"/>
+    </g>
+    <circle cx="611" cy="98" r="11" fill="#102e31" stroke="#fff8e6" stroke-width="2"/>
+    <circle cx="611" cy="98" r="4" fill="#fff8e6"/>
+    <path d="M32 194h25" stroke="#a4ded1" stroke-width="3" stroke-linecap="round"/>
+    <text x="68" y="200" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e6eee5">Energy</text>
+    <path d="M187 194h26" stroke="#f4c589" stroke-width="4" stroke-linecap="round" stroke-dasharray="1 8"/>
+    <text x="224" y="200" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e6eee5">Information</text>
+  </g>
+  <rect x="1" y="1" width="798" height="206" rx="14" fill="none" stroke="#365955" stroke-width="2"/>
+</svg>

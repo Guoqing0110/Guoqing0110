@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 148" width="900" height="148" role="img" aria-labelledby="title desc">
+<title id="title">Inside the ten-node hardware-in-the-loop testbed</title>
+<desc id="desc">Ten physical radios exchange real packets and acknowledgements. Packet events reach a host computer that models energy transfers and their costs. The node icons indicate a count, not a network topology.</desc>
+<defs>
+  <linearGradient id="paper" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop stop-color="#fff5c8"/><stop offset=".47" stop-color="#fff9e9"/><stop offset="1" stop-color="#ddf4ed"/></linearGradient>
+  <g id="radio" stroke="#145951" stroke-width="2" stroke-linejoin="round"><path d="M0 -8v-5" fill="none"/><rect x="-6" y="-8" width="12" height="15" rx="3" fill="#fffdf1"/><path d="M-2 3h4" fill="none"/></g>
+</defs>
+<rect x="1" y="1" width="898" height="146" rx="18" fill="url(#paper)" stroke="#dce3ce"/>
+<g transform="translate(30 37)" stroke-linecap="round">
+  <rect x="0" y="0" width="132" height="78" rx="11" fill="#ffe681"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="19" y="29"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="43" y="29"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="66" y="29"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="89" y="29"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="113" y="29"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="19" y="59"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="43" y="59"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="66" y="59"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="89" y="59"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#radio" x="113" y="59"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#163f40">
+  <text x="184" y="72" font-size="31" font-weight="700">10 radios</text>
+  <text x="184" y="99" font-size="19">Packets and acknowledgements</text>
+</g>
+<g transform="translate(458 74)" stroke-linecap="round" stroke="#27685f" fill="none">
+  <path d="M-8 0h63m-8-8 8 8-8 8" stroke-width="2.5"/>
+  <rect x="4" y="-5" width="10" height="10" rx="2" stroke="#975b17" fill="#ffd257"/>
+  <rect x="20" y="-5" width="10" height="10" rx="2" stroke="#975b17" fill="#ffd257"/>
+</g>
+<g transform="translate(542 37)" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="78" height="78" rx="12" fill="#a9e9d7"/>
+  <rect x="15" y="17" width="49" height="36" rx="4" stroke="#145951" fill="#f7fff4" stroke-width="2.8"/>
+  <path d="M34 54l-2 6m12-6 2 6m-19 1h25" fill="none" stroke="#145951" stroke-width="2.6"/>
+  <path d="M23 41V32h8v9h8V27h8v14h7" stroke="#198173" stroke-width="2.2" fill="none"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#163f40">
+  <text x="642" y="72" font-size="31" font-weight="700">Host model</text>
+  <text x="642" y="99" font-size="19">Energy transfers and costs</text>
+</g>
+</svg>

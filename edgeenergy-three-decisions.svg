@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="355" viewBox="0 0 600 355" role="img" aria-labelledby="title desc">
+<title id="title">From donor coordination to useful observations</title>
+<desc id="desc">Dynamic-K adjusts the limit on concurrent donors. DA-IES-S values energy reports by the decisions they could change. Sentinels wake neighbours, with a separate re-alert mechanism for a spreading event.</desc>
+<g font-family="Arial, Helvetica, sans-serif" fill="#163e40">
+  <rect x="1" y="1" width="598" height="102" rx="15" fill="#fff2c5" stroke="#e9d795"/>
+  <rect x="1" y="113" width="598" height="111" rx="15" fill="#dcf3e9" stroke="#b8dece"/>
+  <rect x="1" y="234" width="598" height="120" rx="15" fill="#e3f3fa" stroke="#bfdeeb"/>
+  <g fill="none" stroke="#745315" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 32h5l12 9h3m-20 10h5l12-10"/>
+    <g fill="#ffe29a"><circle cx="25" cy="32" r="4.5"/><circle cx="25" cy="51" r="4.5"/><circle cx="50" cy="41" r="5"/></g>
+  </g>
+  <g fill="none" stroke="#1b695b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M24 138h27v19H35l-7 6v-6h-4z"/>
+    <path d="M30 145h15m-15 6h9"/>
+  </g>
+  <g fill="none" stroke="#285d74" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 273q17-23 34 0-17 23-34 0z"/><circle cx="37" cy="273" r="5"/>
+  </g>
+  <g font-size="30" font-weight="700">
+    <text x="74" y="45">How many donors should help?</text>
+    <text x="74" y="154">When is a report worth its cost?</text>
+    <text x="74" y="277">Where should sensors look next?</text>
+  </g>
+  <g font-size="26">
+    <text x="74" y="81">Dynamic-K varies the cap on active donors.</text>
+    <text x="74" y="184">DA-IES-S values reports by the decisions</text>
+    <text x="74" y="212">they could change.</text>
+    <text x="74" y="309">Sentinels wake neighbours; re-alert revisits</text>
+    <text x="74" y="338">sites on a budget as an event spreads.</text>
+  </g>
+</g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="714" viewBox="0 0 1100 714" role="img" aria-labelledby="title desc">
+<title id="title">Three research decisions: from shared energy to useful observations</title>
+<desc id="desc">A conceptual progression through resource, information and sensing decisions. Dynamic-K adapts the maximum number of concurrent donors. DA-IES-S values new information and safeguards payer reserves. Sentinel-assisted sensing wakes neighbours after a local change; a separate trace-based extension uses bounded re-alerts as an event moves. In each study the ten-node hardware-in-the-loop testbed answers a different question: live donor control under delivered reports, offline policy replay on common radio traffic, or physical acknowledgements of local wake commands.</desc>
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#fffcf2"/><stop offset="1" stop-color="#f4faf5"/>
+  </linearGradient>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif}
+    .kicker{font-size:17px;font-weight:700;letter-spacing:2px;fill:#28615c}
+    .title{font-size:43px;font-weight:700;fill:#123f41;letter-spacing:-1.3px}
+    .label{font-size:16px;font-weight:700;letter-spacing:1.55px}
+    .question{font-size:30px;font-weight:700;fill:#163e40;letter-spacing:-.5px}
+    .body{font-size:22px;fill:#244749}
+    .foot{font-size:18px;fill:#435d5d}
+    .num{font-size:21px;font-weight:700;text-anchor:middle}
+  </style>
+</defs>
+<rect x="1" y="1" width="1098" height="712" rx="25" fill="url(#paper)" stroke="#e0e9db" stroke-width="2"/>
+<text class="kicker" x="41" y="44">EDGEENERGY  /  PhD RESEARCH STRATEGY</text>
+<text class="title" x="40" y="99">From shared energy to useful observations</text>
+<g aria-hidden="true" fill="none" stroke-linecap="round">
+  <circle cx="1027" cy="58" r="15" fill="#ffcf49" stroke="none"/>
+  <path d="M991 84q17-14 37-5t35-2m-72 15q17-14 37-5t35-2" stroke="#197f75" stroke-width="2.6"/>
+</g>
+<path d="M42 123h1016" fill="none" stroke="#cdd9c8"/>
+<path d="M69 165v369" fill="none" stroke="#b5c6b8" stroke-width="2.3"/>
+<!-- Research decisions form a conceptual progression, not a single controller. -->
+<g>
+  <circle cx="69" cy="165" r="23" fill="#ffdf79" stroke="#f5d269"/>
+  <text class="num" x="69" y="172" fill="#694912">01</text>
+  <text class="label" x="116" y="158" fill="#806022">RESOURCE  /  TRANSFER COORDINATION</text>
+  <text class="question" x="115" y="199">How many donors should serve one receiver?</text>
+  <text class="body" x="116" y="239"><tspan font-weight="700">Dynamic-K</tspan> adjusts the limit on simultaneous donors as reserves change.</text>
+  <text class="foot" x="116" y="281"><tspan font-weight="700">Live control:</tspan> the controller adapts the limit live, using the reports that arrive.</text>
+</g>
+<path d="M116 311h942" fill="none" stroke="#d7e0d2"/>
+<g>
+  <circle cx="69" cy="348" r="23" fill="#b4e8d9" stroke="#a1d9c8"/>
+  <text class="num" x="69" y="355" fill="#175e57">02</text>
+  <text class="label" x="116" y="341" fill="#186b63">INFORMATION  /  SCHEDULING WITH INCOMPLETE STATE</text>
+  <text class="question" x="115" y="382">Which energy reports could change the next transfer?</text>
+  <text class="body" x="116" y="422"><tspan font-weight="700">DA-IES-S</tspan> weighs a report’s value against its cost and protects payer reserves.</text>
+  <text class="foot" x="116" y="464"><tspan font-weight="700">Matched replay:</tspan> alternative policies are replayed on the same captured radio traffic.</text>
+</g>
+<path d="M116 494h942" fill="none" stroke="#d7e0d2"/>
+<g>
+  <circle cx="69" cy="531" r="23" fill="#c3e6f3" stroke="#b2d6e6"/>
+  <text class="num" x="69" y="538" fill="#235677">03</text>
+  <text class="label" x="116" y="524" fill="#2a627e">MISSION  /  ADAPTIVE SENSING</text>
+  <text class="question" x="115" y="565">Where should sensors wake or look again?</text>
+  <text class="body" x="116" y="605"><tspan font-weight="700">Sentinel-assisted sampling</tspan> wakes neighbours when a local signal changes.</text>
+  <text class="body" x="116" y="635">A separate trace study tests bounded re-alerts as an event spreads.</text>
+  <text class="foot" x="116" y="677"><tspan font-weight="700">Wake verification:</tspan> radio acknowledgements show which local wake commands arrive.</text>
+</g>
+</svg>

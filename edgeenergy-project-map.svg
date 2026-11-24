@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="728" viewBox="0 0 1200 728" role="img" aria-labelledby="map-title map-desc">
+<title id="map-title">EdgeEnergy: a map of the PhD project</title><desc id="map-desc">Two research lenses, energy collaboration and energy intelligence, lead to three parallel studies of transfer control, report value and anomaly monitoring. A ten-node hardware-in-the-loop platform supplies different evidence for each study. The delayed-front extension uses separate trace windows.</desc>
+<defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#fffdf4"/><stop offset="1" stop-color="#f3f9f0"/></linearGradient></defs>
+<rect width="1200" height="728" rx="22" fill="url(#paper)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="37" y="42" fill="#096457" font-size="16" font-weight="700" letter-spacing="2">EDGEENERGY    /    PhD PROJECT MAP</text>
+<text x="34" y="103" fill="#153d3e" font-size="51" font-weight="600" letter-spacing="-1.2">Energy decisions for sustained sensing</text>
+<g transform="translate(1118 66)" fill="none" stroke-linecap="round"><circle r="18" fill="#ffcd49"/><circle r="27" stroke="#ebbd49" stroke-width="1.5"/><path d="M-63 29q20-23 45-11t55-5m-105 25q24-21 50-9t60-8" stroke="#197568" stroke-width="3.2"/><circle cx="22" cy="1" r="3.5" fill="#197568"/></g>
+<rect x="35" y="131" width="551" height="103" rx="14" fill="#fff0b7"/>
+<text x="56" y="158" fill="#79501a" font-size="13" font-weight="700" letter-spacing="1.7">RESEARCH LENS  01</text>
+<text x="55" y="188" fill="#153d3e" font-size="28" font-weight="700" letter-spacing="-0.45">Energy collaboration</text>
+<text x="56" y="216" fill="#3a5958" font-size="19" font-weight="400" letter-spacing="0">Where and when should nodes receive or share energy?</text>
+<rect x="614" y="131" width="551" height="103" rx="14" fill="#d5f2ec"/>
+<text x="635" y="158" fill="#096457" font-size="13" font-weight="700" letter-spacing="1.7">RESEARCH LENS  02</text>
+<text x="634" y="188" fill="#153d3e" font-size="28" font-weight="700" letter-spacing="-0.45">Energy intelligence</text>
+<text x="635" y="216" fill="#3a5958" font-size="19" font-weight="400" letter-spacing="0">How should energy information guide network decisions?</text>
+<text x="36" y="277" fill="#3a5958" font-size="16" font-weight="700" letter-spacing="1.9">THREE RESEARCH CONTRIBUTIONS</text>
+<path d="M399 272H1165" stroke="#c9d6ca" stroke-width="1.5"/>
+<rect x="35" y="303" width="364" height="218" rx="15" fill="#fffefa" stroke="#cdd9ce"/>
+<rect x="54" y="318" width="170" height="25" rx="6" fill="#f8d781"/>
+<text x="63" y="335" fill="#725117" font-size="13" font-weight="700" letter-spacing="1.2">01   /   COORDINATE</text>
+<text x="54" y="379" fill="#153d3e" font-size="27" font-weight="700" letter-spacing="-0.6">Dynamic-K</text>
+<text x="54" y="413" fill="#3a5958" font-size="19" font-weight="400" letter-spacing="0">Control the number of donors</text>
+<text x="54" y="439" fill="#3a5958" font-size="19" font-weight="400" letter-spacing="0">serving one receiver at a time.</text>
+<path d="M54 454h326" stroke="#d4ded3"/>
+<text x="54" y="483" fill="#153d3e" font-size="25" font-weight="700" letter-spacing="-0.3">5 schedulers</text>
+<text x="55" y="507" fill="#3a5958" font-size="16" font-weight="400" letter-spacing="0">25-node simulation</text>
+<rect x="418" y="303" width="364" height="218" rx="15" fill="#fffefa" stroke="#cdd9ce"/>
+<rect x="437" y="318" width="170" height="25" rx="6" fill="#bde9e3"/>
+<text x="446" y="335" fill="#096457" font-size="13" font-weight="700" letter-spacing="1.2">02   /   INFORM</text>
+<text x="437" y="379" fill="#153d3e" font-size="27" font-weight="700" letter-spacing="-0.6">DA-IES-S</text>
+<text x="437" y="413" fill="#3a5958" font-size="19" font-weight="400" letter-spacing="0">Request reports that could change</text>
+<text x="437" y="439" fill="#3a5958" font-size="19" font-weight="400" letter-spacing="0">a transfer; protect payer reserves.</text>
+<path d="M437 454h326" stroke="#d4ded3"/>
+<text x="437" y="483" fill="#153d3e" font-size="25" font-weight="700" letter-spacing="-0.3">7 policies</text>
+<text x="438" y="507" fill="#3a5958" font-size="16" font-weight="400" letter-spacing="0">Two matched simulation studies</text>
+<rect x="801" y="303" width="364" height="218" rx="15" fill="#fffefa" stroke="#cdd9ce"/>
+<rect x="820" y="318" width="170" height="25" rx="6" fill="#cfe6f1"/>
+<text x="829" y="335" fill="#295f83" font-size="13" font-weight="700" letter-spacing="1.2">03   /   OBSERVE</text>
+<text x="820" y="379" fill="#153d3e" font-size="27" font-weight="700" letter-spacing="-0.6">Sentinel-assisted sensing</text>
+<text x="820" y="413" fill="#3a5958" font-size="19" font-weight="400" letter-spacing="0">Wake nearby nodes. A separate</text>
+<text x="820" y="439" fill="#3a5958" font-size="19" font-weight="400" letter-spacing="0">extension revisits a moving front.</text>
+<path d="M820 454h326" stroke="#d4ded3"/>
+<text x="820" y="483" fill="#153d3e" font-size="25" font-weight="700" letter-spacing="-0.3">54-node trace</text>
+<text x="821" y="507" fill="#3a5958" font-size="16" font-weight="400" letter-spacing="0">Temperature data with injected events</text>
+<rect x="35" y="544" width="1130" height="150" rx="15" fill="#e4efea"/>
+<text x="55" y="576" fill="#096457" font-size="14" font-weight="700" letter-spacing="1.7">ONE SHARED PLATFORM</text>
+<text x="295" y="577" fill="#153d3e" font-size="23" font-weight="700" letter-spacing="-0.3">Ten-node hardware-in-the-loop testbed</text>
+<path d="M55 592H1145m-743 13v49m384-49v49" stroke="#b9d0c6" stroke-width="1.4" fill="none"/>
+<text x="55" y="622" fill="#153d3e" font-size="20" font-weight="700" letter-spacing="0">Live transfer control</text>
+<text x="55" y="648" fill="#3a5958" font-size="16" font-weight="400" letter-spacing="0">68 matched pairs of radio trials</text>
+<text x="436" y="622" fill="#153d3e" font-size="20" font-weight="700" letter-spacing="0">Offline controller replay</text>
+<text x="436" y="648" fill="#3a5958" font-size="16" font-weight="400" letter-spacing="0">Captured radio traffic, common inputs</text>
+<text x="820" y="622" fill="#153d3e" font-size="20" font-weight="700" letter-spacing="0">Local wake response</text>
+<text x="820" y="648" fill="#3a5958" font-size="16" font-weight="400" letter-spacing="0">Physical wake acknowledgements</text>
+<text x="55" y="677" fill="#3a5958" font-size="16" font-weight="400" letter-spacing="0">Radio packets are real. The host models energy transfers. The moving-front extension uses separate trace data.</text>
+</g></svg>
